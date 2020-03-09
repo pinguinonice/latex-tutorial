@@ -1,5 +1,5 @@
 # Lesson 0
-[Overview](../../)
+[Overview](https://github.com/pinguinonice/latex-tutorial/)
 ## Install the "Latex Stuff"
 Before we can dive into the fun of creating our own latex documents, we need to install a *distribution* and an *editor* on our computer.
 
@@ -28,10 +28,11 @@ Editor
 i.e.:
 `File->New ->New From Template -> Scrlttr`
 
-3. Press <img src="https://www.wpclipart.com/signs_symbol/arrows/button_arrows/play_buttons/fast_forward_button.png" width="20" height="20" />
-to create the document
+3. Create a new folder and save the file as `myfirstdocument.tex`
+3. To render your .tex file to a PDF: press <img src="https://www.wpclipart.com/signs_symbol/arrows/button_arrows/play_buttons/fast_forward_button.png" width="20" height="20" />
+ in TexStudio
 
-If you see now a blank white page: congratulations
+If you now see an almost blank white page: congratulations
 you installed latex.
 
 ## Be pro
