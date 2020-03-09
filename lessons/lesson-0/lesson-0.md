@@ -18,3 +18,7 @@ Editor
 1. Dowload MikTex and TexStudio
 2. Install MikTex
 3. Install TexStudio
+
+
+### use full links:
+[yt: how to install miktex and texstudio](https://www.youtube.com/results?search_query=how+to+install+miktex+and+texstudio)
