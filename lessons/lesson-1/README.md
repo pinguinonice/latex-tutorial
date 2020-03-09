@@ -91,10 +91,12 @@ myfirstdocument.log        myfirstdocument.tex
 myfirstdocument.pdf
 ```
 
-They are created during the "Render" process. For now we are only interested in the .pdf wich contains our document:
+They are created during the "Render" process. For now we are only interested in the .pdf wich contains our document.
 
 <object data="doc1-1/myfirstdocument.pdf" type="application/pdf" width="300px" height="300px">
 </object>
+
+
 
 
 
