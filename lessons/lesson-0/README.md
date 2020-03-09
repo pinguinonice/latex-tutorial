@@ -21,5 +21,5 @@ Editor
 ```
 
 
-### use full links:
+### usefull links:
 [yt: how to install miktex and texstudio](https://www.youtube.com/results?search_query=how+to+install+miktex+and+texstudio)
