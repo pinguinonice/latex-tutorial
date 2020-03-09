@@ -1,5 +1,5 @@
 # Lesson 0
-
+[Overview](../../)
 ## Install the "Latex Stuff"
 Before we can dive into the fun of creating our own latex documents, we need to install a *distribution* and an *editor* on our computer.
 
